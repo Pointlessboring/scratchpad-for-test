@@ -1,0 +1,37 @@
+/* Universal Selector: This applies to everything */
+
+* {
+color: purple
+}
+
+div {
+    color: white;
+  }
+
+  .alert-text {
+    color: red;
+  }
+
+  #title {
+    background-color: red;
+  }
+
+  .read {
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  .unread {
+    color: white;
+    background-color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+   
+}
+
+  .subsection.header {
+    color: red;
+  }
